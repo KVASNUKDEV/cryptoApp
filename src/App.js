@@ -8,7 +8,6 @@ import {
   Navbar,
   News,
   HomePage,
-  Exchanges,
   Cryptodetails,
   Cryptocurrencies,
 } from "./components";
